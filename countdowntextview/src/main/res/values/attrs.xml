@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CountDownView">
+        <attr name="count_down_time"  format="float"/>
+        <attr name="count_down_format"  format="string"/>
+    </declare-styleable>
+
+</resources>
